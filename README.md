@@ -31,3 +31,7 @@ Each method has distinct strengths:
 - The **CNN model** provides a learning-based approach to location prediction.
 - **Feature Matching** via SIFT and FLANN leverages detailed image features for high-precision matching.
 - The combination of both methods enhances overall accuracy and robustness in fine-grained geolocation detection.
+
+## License
+
+This project is not licensed for distribution or modification. University students are permitted to reference this repository for educational purposes only. Copying or reproducing any part of this project without proper attribution may lead to serious plagiarism issues and academic consequences. Please ensure that any use of this material complies with your institution's academic integrity policies.
